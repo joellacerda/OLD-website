@@ -116,6 +116,7 @@ p {
 
 .icon {
   width: 20%;
+  border-radius: 100%;
 }
 
 .intro {
