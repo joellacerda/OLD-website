@@ -1,13 +1,13 @@
 /* TAG SELECTORS */
 
-a {
+.footer-link {
   color: #11999e;
   font-family: "Montserrat", sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
 
-a:hover {
+.footer-link:hover {
   color: #eaf6f6;
 }
 
