@@ -2,7 +2,7 @@
 
 .footer-link {
   color: #11999e;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Verdana", sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
@@ -28,7 +28,7 @@ h1 {
 
 h2 {
   color: #66bfbf;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Verdana", sans-serif;
   font-size: 2rem;
   font-weight: normal;
   padding-bottom: 10px;
@@ -36,7 +36,7 @@ h2 {
 
 h3 {
   color: #11999e;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Verdana", sans-serif;
 }
 
 hr {
@@ -65,7 +65,7 @@ p {
   position: absolute;
 }
 
-.bottom-container {
+footer {
   background-color: #66bfbf;
   padding: 50px 0 20px;
 }
@@ -80,7 +80,7 @@ p {
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Verdana", sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -124,7 +124,7 @@ p {
   width: 80%;
 }
 
-.middle-container {
+main {
   margin: 100px 10px;
 }
 
@@ -140,7 +140,7 @@ p {
   top: 40px;
 }
 
-.top-container {
+header {
   background-color: #eaf6f6;
   padding-top: 100px;
   position: relative;
